@@ -1,19 +1,4 @@
-# NFT Minter 
-<p align="center">
-<img src="https://metadevs.com.br/static/media/logo-w-text.6bc5968eaf1e5ddc1c26.png" alt="Metadevs www.metadevs.com.br" style="width:400px;"/>
-</p>
 
-<p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/QmTc7pUi9Barfkqbx9zgcgGkaqSJQnpsDG4ZQKrTFyqQt8" alt="Metadevs www.metadevs.com.br" style="width:750px;"/>
-</p>
-
-Acesse a comunidade Metadevs: https://wwww.metadevs.com.br/
-
-Esse projeto é uma aplicação web utilizando ReactJs, Alchemy Web3.0, Piñata, SmartContracts com Solidity & OpenZeppelin além do Truffle & Ganache para realizar os testes em uma Blockchain Ethereum de teste.
-
-## ATENÇÃO: `Código Inicial do Curso`vs Código completo 
-
-Se você comprou o curso e vai iniciar o projeto desde o início, você deve fazer um clone da branch `codigo-inicial`. Lá estará presente toda a parte estrutural, mas as funções/contratos ainda não estão implementados, e você pode ir construindo de acordo com o curso.
 
 A versão completa do código encontra-se na branch `main`
 
